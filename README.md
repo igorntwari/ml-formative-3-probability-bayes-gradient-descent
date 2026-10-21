@@ -10,4 +10,4 @@
    - `part4_gradient_descent_code/`: Gradient descent in Python with SciPy and Matplotlib
 
    ## Team
-   - (member names and GitHub usernames)
+   - Alieu O Jobe (@Jobealieu): Part 1, EM algorithm
