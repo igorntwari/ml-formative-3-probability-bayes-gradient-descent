@@ -1,3 +1,6 @@
 *.csv
 .ipynb_checkpoints/
 __pycache__/
+# Part 1 dataset is small (about 50 KB), so it is committed so the notebook runs as cloned
+!part1_em_algorithm/data/GaltonFamilies.csv
+.venv/
