@@ -85,7 +85,7 @@ Chain rule: ∂J/∂m = (∂J/∂e)(∂e/∂m) = (2/n) Xᵀe and ∂J/∂b = (�
 
 **Trend:** the cost falls at every update, so m and b move in a direction that reduces the error. The first step is
 large because the starting error is large; afterwards m₂ and b swing back slightly because α = 0.01 is close to the
-stability limit (about 0.0158 for this data). Handwritten work: [PDF](part3_Gradient_Descent_Manual_Calculation/1000470509.pdf).
+stability limit (about 0.0158 for this data). Handwritten work: [PDF](part3_Gradient_Descent_Manual_Calculation/part%203%20Gradient%20Descent%20Manual%20Calculation.pdf).
 
 ## Part 4: Gradient descent in code
 
