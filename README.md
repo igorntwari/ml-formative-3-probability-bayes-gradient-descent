@@ -96,3 +96,7 @@ cost drops from 61 to 0.00007.
 | m and b over iterations | Error over iterations |
 |---|---|
 | ![Parameters](part4_gradient_descent/parameters_chart.png) | ![Cost](part4_gradient_descent/cost_chart.png) |
+
+## Contributions
+
+Task allocation, completion status and meeting log: [contributions.pdf](contributions.pdf)
